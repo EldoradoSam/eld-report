@@ -1,0 +1,12 @@
+{
+    "name": "eld/report",
+    "description": "This is for report genarator",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sampath",
+            "email": "sampathperera04@gmail.com"
+        }
+    ],
+    "require": {}
+}
